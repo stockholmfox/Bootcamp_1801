@@ -6,7 +6,7 @@ Three teams were created:
 
 *  Polaris
 *  Data Punkis
-*  ???
+*  Snowbird
 
 
 ![](img/IMG_1319.JPG)
